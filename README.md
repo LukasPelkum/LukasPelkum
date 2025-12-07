@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+<pre>
+  Contact me
+If you want to contact me for any reason, feel free to do so using one of the following ways:
+
+Discord: lus#8001
+E-Mail: hi@kas.lu
+Mastodon: @lus@goose.rodeo
+Matrix: @lus:goose.rodeo
+</pre>
 <!--
 **LukasPelkum/LukasPelkum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
